@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="E410F3C7-A936-4CAD-A919-A4748FF134C4" ModuleId="Domain" />
+  <Module PersistentId="90033677-8EC6-4DAB-92FE-24694C9B03A2" ModuleId="Framework" />
+  <Module PersistentId="44529CB2-DA1A-4355-8147-E8331B9C5FEE" ModuleId="TheBookThingAppserver" />
+  <Module PersistentId="03D3F3E4-3D5B-4B51-8426-8E0CC62A626E" ModuleId="TheBookThingConsoleClient" />
+  <Module PersistentId="8CD6BFC2-ECCD-47A8-BBB2-117FAAAF0EBA" ModuleId="TheBookThingReadModels" />
+  <Module PersistentId="3F38DC88-0F0C-4186-9774-19952B15DCDE" ModuleId="EventCentricTesting" />
+</Modules>

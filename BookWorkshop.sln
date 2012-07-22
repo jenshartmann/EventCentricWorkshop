@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{E410F3C7-A936-4CAD-A919-A4748FF134C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework", "Framework\Framework.csproj", "{90033677-8EC6-4DAB-92FE-24694C9B03A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventCentricTesting", "EventCentricTesting\EventCentricTesting.csproj", "{3F38DC88-0F0C-4186-9774-19952B15DCDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBookThingAppserver", "TheBookThingAppserver\TheBookThingAppserver.csproj", "{44529CB2-DA1A-4355-8147-E8331B9C5FEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBookThingConsoleClient", "TheBookThingConsoleClient\TheBookThingConsoleClient.csproj", "{03D3F3E4-3D5B-4B51-8426-8E0CC62A626E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBookThingReadModels", "TheBookThingReadModels\TheBookThingReadModels.csproj", "{8CD6BFC2-ECCD-47A8-BBB2-117FAAAF0EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D3F3E4-3D5B-4B51-8426-8E0CC62A626E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D3F3E4-3D5B-4B51-8426-8E0CC62A626E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D3F3E4-3D5B-4B51-8426-8E0CC62A626E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D3F3E4-3D5B-4B51-8426-8E0CC62A626E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F38DC88-0F0C-4186-9774-19952B15DCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F38DC88-0F0C-4186-9774-19952B15DCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F38DC88-0F0C-4186-9774-19952B15DCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F38DC88-0F0C-4186-9774-19952B15DCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44529CB2-DA1A-4355-8147-E8331B9C5FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44529CB2-DA1A-4355-8147-E8331B9C5FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44529CB2-DA1A-4355-8147-E8331B9C5FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44529CB2-DA1A-4355-8147-E8331B9C5FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD6BFC2-ECCD-47A8-BBB2-117FAAAF0EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD6BFC2-ECCD-47A8-BBB2-117FAAAF0EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD6BFC2-ECCD-47A8-BBB2-117FAAAF0EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD6BFC2-ECCD-47A8-BBB2-117FAAAF0EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90033677-8EC6-4DAB-92FE-24694C9B03A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90033677-8EC6-4DAB-92FE-24694C9B03A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90033677-8EC6-4DAB-92FE-24694C9B03A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90033677-8EC6-4DAB-92FE-24694C9B03A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E410F3C7-A936-4CAD-A919-A4748FF134C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E410F3C7-A936-4CAD-A919-A4748FF134C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E410F3C7-A936-4CAD-A919-A4748FF134C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E410F3C7-A936-4CAD-A919-A4748FF134C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

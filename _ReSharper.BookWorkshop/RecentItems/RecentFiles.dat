@@ -1,0 +1,60 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Events/f:Buch_wurde_zurückgestellt.cs" caret="309" fromTop="14" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Events/f:Buch_wurde_eingepflegt.cs" caret="88" fromTop="5" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Events/f:Buch_wurde_ausgeliehen.cs" caret="108" fromTop="7" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Events/f:Buch_einpflegen_wurde_abgelehnt.cs" caret="108" fromTop="7" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Events/f:Buch_ausleihen_wurde_abgelehnt.cs" caret="108" fromTop="7" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:Messaging/f:ICommandRouter.cs" caret="48" fromTop="8" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:CommandHandler/f:Buch_ausleihen_Handler.cs" caret="266" fromTop="11" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:CommandHandler/f:Buch_zurückstellen_Handler.cs" caret="561" fromTop="15" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Commands/f:Buch_zurückstellen.cs" caret="0" fromTop="0" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:Domain/f:Command.cs" caret="259" fromTop="12" />
+    <File id="03D3F3E4-3D5B-4B51-8426-8E0CC62A626E/f:BookClient.cs" caret="318" fromTop="6" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Commands/f:Buch_ausleihen.cs" caret="178" fromTop="9" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Commands/f:Buch_einpflegen.cs" caret="462" fromTop="17" />
+    <File id="8CD6BFC2-ECCD-47A8-BBB2-117FAAAF0EBA/f:BookReadModel.cs" caret="1617" fromTop="12" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:Domain/f:Event.cs" caret="0" fromTop="0" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:Domain/f:AggregateRoot.cs" caret="682" fromTop="22" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Aggregate/f:Buch.cs" caret="177" fromTop="7" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:EventStore/f:IRepository.cs" caret="688" fromTop="20" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:EventStore/f:Repository.cs" caret="2323" fromTop="16" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:EventStore/f:Record.cs" caret="0" fromTop="0" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:EventStore/d:Implementations/d:InMemory/f:InMemoryEvenStore.cs" caret="0" fromTop="0" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:EventStore/d:Implementations/d:Files/f:FileEventStore.cs" caret="1654" fromTop="21" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/f:Domainlayer.cs" caret="0" fromTop="0" />
+    <File id="44529CB2-DA1A-4355-8147-E8331B9C5FEE/f:Bookserver.cs" caret="2032" fromTop="23" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:CommandHandler/f:Buch_einpflegen_Handler.cs" caret="363" fromTop="13" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:EventStore/f:IEventStore.cs" caret="0" fromTop="0" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:EventStore/d:Implementations/d:Sql/f:MsSqlEventStore.cs" caret="3180" fromTop="85" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:EventStore/f:IEventStore.cs" caret="224" fromTop="10" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:EventStore/d:Implementations/d:InMemory/f:InMemoryEvenStore.cs" caret="896" fromTop="32" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/f:Domainlayer.cs" caret="593" fromTop="22" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:Messaging/f:ICommandRouter.cs" caret="145" fromTop="13" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:Messaging/f:CommandRouter.cs" caret="899" fromTop="31" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:Messaging/f:IHandle.cs" caret="159" fromTop="8" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:Domain/f:Event.cs" caret="1375" fromTop="16" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:CommandHandler/f:Buch_einpflegen_Handler.cs" caret="247" fromTop="10" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Events/f:Buch_wurde_eingepflegt.cs" caret="105" fromTop="6" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Events/f:Buch_ausleihen_wurde_abgelehnt.cs" caret="108" fromTop="7" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Events/f:Buch_einpflegen_wurde_abgelehnt.cs" caret="108" fromTop="7" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Events/f:Buch_wurde_ausgeliehen.cs" caret="108" fromTop="7" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Events/f:Buch_wurde_zurückgestellt.cs" caret="108" fromTop="7" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:CommandHandler/f:Buch_ausleihen_Handler.cs" caret="473" fromTop="16" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Commands/f:Buch_zurückstellen.cs" caret="195" fromTop="9" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:CommandHandler/f:Buch_zurückstellen_Handler.cs" caret="484" fromTop="14" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:EventStore/d:Implementations/d:Files/f:FileEventStore.cs" caret="3885" fromTop="25" />
+    <File id="44529CB2-DA1A-4355-8147-E8331B9C5FEE/f:Bookserver.cs" caret="447" fromTop="5" />
+    <File id="03D3F3E4-3D5B-4B51-8426-8E0CC62A626E/f:BookClient.cs" caret="4611" fromTop="18" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Commands/f:Buch_einpflegen.cs" caret="195" fromTop="9" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Commands/f:Buch_ausleihen.cs" caret="178" fromTop="9" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:Domain/f:Command.cs" caret="48" fromTop="4" />
+    <File id="8CD6BFC2-ECCD-47A8-BBB2-117FAAAF0EBA/f:BookReadModel.cs" caret="1680" fromTop="13" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:EventStore/f:Repository.cs" caret="2310" fromTop="14" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:Domain/f:AggregateRoot.cs" caret="682" fromTop="22" />
+    <File id="E410F3C7-A936-4CAD-A919-A4748FF134C4/d:Aggregate/f:Buch.cs" caret="179" fromTop="8" />
+    <File id="90033677-8EC6-4DAB-92FE-24694C9B03A2/d:EventStore/d:Implementations/d:Sql/f:MsSqlEventStore.cs" caret="3276" fromTop="20" />
+  </RecentEdits>
+</RecentFiles>
